@@ -1,0 +1,9 @@
+Building Xiaomicoin
+
+See doc/readme-qt.rst for instructions on building Xiaomicoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Xiaomicoin.
+
+See doc/build-*.txt for instructions on building Xiaomicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Xiaomicoin.
